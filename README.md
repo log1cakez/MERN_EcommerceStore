@@ -1,4 +1,4 @@
-# 🛒 ecommercestorewithadmin
+# 🛒 MERN Full Stack eCommerce Store with Admin Dashboard
 
 A full-featured eCommerce web application built with the **MERN stack**, including an **Admin Dashboard** with real-time analytics. This app uses **JWT authentication**, **Stripe** for payments, and **Tailwind CSS** for a modern responsive UI.
 
