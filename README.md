@@ -39,3 +39,28 @@ A full-featured eCommerce web application built with the **MERN stack**, includi
 - dotenv for environment config
 
 ---
+📊 Admin Dashboard
+Accessible only to admin users. Features include:
+
+Product and order management
+
+User control
+
+Stripe-powered revenue tracking
+
+Dashboard charts and metrics
+
+🔒 Authentication
+User passwords hashed via bcryptjs
+
+Tokens generated and verified using jsonwebtoken
+
+Cookie-based or localStorage token storage supported
+
+💳 Payments
+Integrated with Stripe API
+
+Handles checkout and payment confirmation
+
+Supports multiple payment methods
+
